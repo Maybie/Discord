@@ -8,9 +8,6 @@ local vynixuModules = {
 	Functions = loadstring(game:HttpGet("https://raw.githubusercontent.com/Maybie/Discord/refs/heads/main/Function.lua"))()
 }
 local assets = {
-
-  
-
     DiscordInvitePrompt = LoadCustomInstance("https://raw.githubusercontent.com/Maybie/Discord/refs/heads/main/DiscordInvitePrompt.rbxm"),
     NotificationSound = LoadCustomAsset("https://raw.githubusercontent.com/Maybie/Discord/refs/heads/main/Invite.mp3")
 }
